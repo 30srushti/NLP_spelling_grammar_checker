@@ -68,5 +68,7 @@ http://127.0.0.1:5000/
 
 <img width="1916" height="1060" alt="Screenshot 2025-11-25 105715" src="https://github.com/user-attachments/assets/06275a79-cb8a-401c-a948-478b1516436a" />
 
+📃 License MIT License — Free to use, modify, and distribute with proper attribution.
+
 
 
